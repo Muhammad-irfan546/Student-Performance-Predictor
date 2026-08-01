@@ -47,6 +47,7 @@ git push -u origin main
 
 ## Step 3 — Deploy on Streamlit Cloud
 
+
 1. Go to https://share.streamlit.io
 2. Sign in with GitHub
 3. Click **New app**
@@ -54,7 +55,8 @@ git push -u origin main
 5. Click **Deploy**
 
 Your app will be live at a URL like:
-`https://student-performance-app.streamlit.app`
+
+https://student-performance-predictor-c6cwuzoh62jkfre8nrbtcu.streamlit.app/
 
 ## Note on scikit-learn version
 
